@@ -1,0 +1,411 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Red Rose", cursive;
+   }
+  
+  body{
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    width: auto;
+    background-color: #000;
+}
+
+   .navbar {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+       }
+
+    .logo {
+        margin-top: 60px;
+        height: 40px;
+        margin-left: 100px;
+    }
+   
+    .Items {
+        display: flex;
+        flex-direction: row;
+        font-family: sans-serif;
+        color:#fff;
+        margin-top: 60px;
+        font-size: 15px;
+        gap: 60px;
+        font-family: sans-serif;
+        margin-right: 350px;
+        }
+
+    .dropdown {
+        transform: rotate(90deg);
+        color: #fff;
+        background-color: #000;
+        font-size: 25px;
+        margin-left: -40px;
+        margin-top: -7.5px;
+    }
+
+    .imagee {
+     height: 700px;
+     margin-left: 120px;
+    }
+
+    .Arthur h2 {
+        color: red;
+        font-family: sans-serif;
+        margin-bottom: 10px;
+    }
+
+    .Arthur h1 {
+        color: #fff;
+        font-family: sans-serif;
+        font-size: 80px;
+        margin-bottom: 10px;
+    }
+
+    .Arthur p {
+        font-family: sans-serif;
+        color: #ddd;
+        font-size: 25px;
+        line-height: 30px;
+        margin-bottom: 50px;
+    }
+
+    .Arthur button {
+        font-family: sans-serif;
+        color: #fff;
+        border: none;
+        background-color: red;
+        padding: 15px 35px;
+        font-size: 23px;
+        margin-bottom: 200px;
+    }
+
+    .Arthur {
+        margin-left: 850px;
+        margin-top: -480px;
+    }
+
+    .header1 {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        margin-top: -1000px;
+        gap: 50px;
+    }
+
+    .bgc {
+        background-color: #151313;
+        height: 1100px;
+        width: 940px;
+        margin-top: -60px;
+    }
+
+    .Design {
+        background-color: #0D0D0D;
+        height: 400px;
+        width: 400px;
+    }
+    
+    .Design h2 {
+      font-family: sans-serif;
+      color: #fff;
+      font-size: 35px;
+      margin-bottom: 20px;
+      margin-left: 50px;
+    }
+
+    
+    .Design p {
+        font-family: sans-serif;
+        color: #ddd;
+        font-size: 25px;
+        line-height: 25px;
+        margin-bottom: 40px;
+        margin-left: 50px;
+        }
+
+    .Design h3 {
+         font-family: sans-serif;
+         color: red;
+         font-size: 20px;
+         margin-left: 50px;
+        }
+
+    .Design1 {
+            background-color: red;
+            height: 400px;
+            width: 400px;
+        }
+    
+    .Design1 h2 {
+         font-family: sans-serif;
+         color: #fff;
+         font-size: 35px;
+         margin-bottom: 20px;
+         margin-left: 50px;
+         }
+          
+              
+     .Design1 p {
+         font-family: sans-serif;
+         color: #ddd;
+         font-size: 25px;
+         line-height: 25px;
+         margin-bottom: 40px;
+         margin-left: 50px;
+        }
+          
+    .Design1 h3 {
+        font-family: sans-serif;
+        color: #fff;
+        font-size: 20px;
+        margin-left: 50px;
+        }
+
+     .UI {
+            height: 65px;
+            margin-bottom: 20px;
+            margin-top: 75px;
+            margin-left: 50px;
+            margin-top: 55px;
+        }
+
+    .clients {
+        display: flex;
+        gap: 20px;
+        }
+
+    .clients h2 {
+        font-family: sans-serif;
+       color: red;
+       font-size: 50px;
+    }
+
+    .clients span {
+        color: #ddd;
+        font-size: 20px;
+        font-family: sans-serif;
+    }
+
+    .Achieve {
+        display: flex;
+        gap: 20px;
+        }
+
+    .Achieve h2 {
+        font-family: sans-serif;
+       color: red;
+       font-size: 50px;
+    }
+
+    .Achieve span {
+        color: #ddd;
+        font-size: 20px;
+        font-family: sans-serif;
+    }
+
+    .Projects {
+          margin-top: -60px;
+          margin-bottom: 80px;
+          line-height: 40px;
+          text-align: center;
+          background-color: #0D0D0D;
+          height: 150px;
+          width: 410px;
+          padding: 30px;
+    }
+
+    .header2 {
+        display: flex;
+        margin-top: 250px;
+        justify-content: center;
+        gap: 100px;
+    }
+
+    .both {
+        margin-right: 110px;
+    }
+
+    .Experience {
+        line-height: 70px;
+        margin-left: 200px;
+    }
+
+    .Experience h1 {
+       font-family: sans-serif;
+       color: red;
+       font-size: 100px;
+    }
+
+    .Experience span {
+        color: #fff;
+        font-size: 40px;
+        font-family: sans-serif;
+        margin-left: -80px;
+    }
+
+    .header3 {
+        display: flex;
+        margin-top: 90px;
+        justify-content: center;
+        gap: 630px;
+        margin-bottom: 150px;
+    }
+
+    .Feature h2 {
+        color: #fff;
+        font-family: sans-serif;
+        font-size: 30px;
+        margin-bottom: 15px;
+    }
+
+    .Feature p {
+        color: #ddd;
+        font-family: sans-serif;
+        font-size: 20px;
+    }
+
+    .button1 {
+        font-family: sans-serif;
+        color: #fff;
+        border: none;
+        background-color: rgb(172, 33, 33);
+        padding: 10px 35px;
+        font-size: 20px;
+        margin-top: 20px;
+    }
+
+     .art {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        gap: 120px;
+        margin-top: -80px;
+    }
+
+    .art1 {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        gap: 120px;
+        margin-top: 140px;
+        margin-bottom: 250px;
+    }
+    
+    .burger {
+        background-color: #0D0D0D;
+        height: 420px;
+        width: 580px;
+       }
+
+    .burger h3 {
+        font-family: sans-serif;
+        color: #fff;
+        font-size: 30px;
+        margin-bottom: 15px;
+    }
+
+    .burger h4 {
+        font-family: sans-serif;
+        color: red;
+        font-size: 20px;
+    }
+
+    .vintage {
+        height: 290px;
+        margin-bottom: 100px;
+        margin-left: 33px;
+        margin-top: 65px;
+      }
+
+      .vintage1 {
+        height: 350px;
+        margin-bottom: 100px;
+        margin-top: 33px;
+        margin-left: 26px;
+      }
+
+      .vintage2 {
+        height: 290px;
+        margin-bottom: 100px;
+        margin-left: 33px;
+        margin-top: 65px;
+      }
+  
+      .Work {
+        display: flex;
+        margin-top: 120px;
+        justify-content: center;
+        gap: 250px;
+        margin-bottom: 150px;
+        margin-top: 100px;
+        background-color: #0D0D0D;
+        height: 400px;
+        padding:  90px;
+        width: 1240px;
+        margin-left: 310px;
+    }
+
+    .Together h2 {
+        color: #fff;
+        font-family: sans-serif;
+        font-size: 60px;
+        margin-bottom: 25px;
+    }
+
+    .Together p {
+        color: #ddd;
+        font-family: sans-serif;
+        font-size: 20px;
+    }
+
+    .button2 {
+        font-family: sans-serif;
+        color: #fff;
+        border: none;
+        background-color: rgb(172, 33, 33);
+        padding: 10px 45px;
+        font-size: 20px;
+        margin-top: 90px;
+    }
+
+    .navlinks {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        font-family: sans-serif;
+        color: #fff;
+        font-size: 15px;
+        gap: 70px;
+        margin-top: -50px;
+        margin-bottom: 50px;
+    }
+
+    .navbar1 {
+        display: flex;
+        flex-direction: row;
+        height: 150px;
+        background-color: #0D0D0D;
+        justify-content: space-between;
+        gap: 100px;
+    }
+
+   .logo1 {
+        height: 40px;
+        margin-top: 50px;
+        margin-left: 315px ;
+    }
+
+    .socialmedia {
+        display: flex;
+        flex-direction: row;
+        gap: 70px;
+        margin-right: 820px
+    }
+
+    .icons {
+        height: 20px;
+         margin-top: 60px;
+     }
