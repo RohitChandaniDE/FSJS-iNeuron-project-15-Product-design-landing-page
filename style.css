@@ -9,8 +9,9 @@
     background-position: center;
     background-size: cover;
     height: 100vh;
-    width: auto;
+    max-width: 95rem;
     background-color: #000;
+    margin: auto;
 }
 
    .navbar {
@@ -34,7 +35,6 @@
         font-size: 15px;
         gap: 60px;
         font-family: sans-serif;
-        margin-right: 350px;
         }
 
     .dropdown {
@@ -345,7 +345,7 @@
         height: 400px;
         padding:  90px;
         width: 1240px;
-        margin-left: 310px;
+        margin-left: 130px;
     }
 
     .Together h2 {
