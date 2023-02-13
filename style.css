@@ -23,7 +23,6 @@
     .logo {
         margin-top: 60px;
         height: 40px;
-        margin-left: 100px;
     }
    
     .Items {
@@ -35,6 +34,7 @@
         font-size: 15px;
         gap: 60px;
         font-family: sans-serif;
+        margin-right: 100px;
         }
 
     .dropdown {
@@ -48,7 +48,7 @@
 
     .imagee {
      height: 700px;
-     margin-left: 120px;
+     margin-left: 30px;
     }
 
     .Arthur h2 {
@@ -83,7 +83,7 @@
     }
 
     .Arthur {
-        margin-left: 850px;
+        margin-left: 680px;
         margin-top: -480px;
     }
 
@@ -395,7 +395,7 @@
    .logo1 {
         height: 40px;
         margin-top: 50px;
-        margin-left: 315px ;
+        margin-left: 140px ;
     }
 
     .socialmedia {
