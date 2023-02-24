@@ -690,6 +690,7 @@
     }
     .bgc {
         height: 2000px;
+        width: 425px;
     }
     .header1 {
         display: flex;
@@ -792,7 +793,7 @@
         justify-content: center;
         align-items: center;
         width: 370px;
-        margin-left: 15px;
+        margin-left: 35px;
         text-align: center;
         gap: 0px;
     }
