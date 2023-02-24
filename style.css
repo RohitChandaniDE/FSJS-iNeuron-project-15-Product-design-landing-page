@@ -410,3 +410,414 @@
         height: 20px;
          margin-top: 60px;
      }
+
+     /* Responsive Design */
+
+ @media screen and (max-width:1525px) {
+        
+    .Experience {
+        margin-left: 100px;
+    }
+    .Work {
+        margin-left: 80px;
+    }
+    .socialmedia {
+        margin-right: 600px
+      }
+    .bgc {
+        width: 730px;
+    }
+ }
+
+ @media screen and (max-width:1345px) {
+       
+    .Items {
+        gap: 50px;
+        margin-right: 10px;
+        }
+    .header {
+        margin-left: -100px;
+    }
+    .Arthur {
+        margin-top: -525px;
+    }
+    .bgc {
+        width: 530px;
+    }
+    .Design {
+        width: 282px;
+    }
+    .Design1 {
+        width: 282px;
+    }
+    .Design h2 {
+        font-size: 28px;
+    }
+    .Design1 h2 {
+        font-size: 28px;
+    }
+    .Design p {
+       font-size: 20px;
+    }
+    .Design1 p {
+        font-size: 20px;
+    }    
+    .header1 {
+        gap: 20px;
+    }
+    .Projects {
+        width: 280px;
+    }
+    .Experience {
+        margin-left: 100px;
+    }
+    .Experience h1 {
+        font-size: 60px;
+    }
+    .Experience span {
+        font-size: 20px;
+        margin-left: -50px;
+    }
+    .header3 {
+        gap: 140px;
+    }
+    .art {
+         gap: 40px;
+    }
+    .vintage {
+        height: 180px;
+        margin-bottom: 40px;
+        margin-left: 25px;
+        margin-top: 35px;
+    }
+    .burger {
+        background-color: #0D0D0D;
+        height: 250px;
+        width: 370px;
+    }
+    .burger h3 {
+        font-size: 25px;
+        margin-bottom: 10px;
+    }
+    .burger h4 {
+       font-size: 15px;
+    }
+    .art1 {
+        gap: 40px;
+   }
+   .vintage1 {
+    height: 200px;
+    margin-bottom: 35px;
+    margin-left: 30px;
+    margin-top: 20px;
+   }
+  .vintage2 {
+    height: 180px;
+    margin-bottom: 40px;
+    margin-left: 25px;
+    margin-top: 35px;
+  }
+  .Work {
+    gap: 100px;
+    height: 230px;
+    padding:  50px;
+    width: 800px;
+    margin-left: 100px;
+  }
+  .Together h2 {
+    font-size: 35px;
+  }
+  .Together p {
+    color: #ddd;
+    font-family: sans-serif;
+    font-size: 15px;
+  }
+  .button2 {
+    padding: 10px 30px;
+    font-size: 15px;
+    margin-top: 50px;
+  }
+  .navlinks {
+    gap: 30px;
+  }
+  .logo1 {
+    margin-left: 110px; 
+  }
+  .socialmedia {
+    margin-right: 400px
+  }
+}
+
+@media screen and (max-width:945px) {
+    .logo {
+        margin-top: 55px;
+        height: 35px;
+        margin-left: 30px;
+    } 
+    .Items {
+        gap: 49px;
+        margin-right: 10px;
+        font-size: 10px;
+        }
+    .dropdown {
+       font-size: 15px;
+       margin-top: -6px;
+    }
+    .imagee {
+        height: 500px;
+       }
+    .header {
+        margin-left: -100px;
+    }
+    .Arthur {
+        margin-left: 480px;
+        margin-top: -400px;
+    }
+    .Arthur h1 {
+        font-size: 40px;
+    }
+    .bgc {
+        width: 400px;
+    }
+    .UI {
+        height: 45px;
+    }
+    .Design {
+        width: 220px;
+    }
+    .Design1 {
+        width: 220px;
+    }
+    .Design h2 {
+        font-size: 20px;
+    }
+    .Design1 h2 {
+        font-size: 20px;
+    }
+    .Design p {
+       font-size: 15px;
+    }
+    .Design1 p {
+        font-size: 15px;
+    }  
+    .Design h3 {
+        font-size: 15px;
+    }  
+    .Design1 h3 {
+        font-size: 15px;
+    }  
+    .Projects {
+        width: 240px;
+    }
+    .Achieve h2 {
+       font-size: 45px;
+    }
+    .Achieve span {
+       font-size: 15px;
+    }
+    .clients h2 {
+        font-size: 45px;
+     }
+     .clients span {
+        font-size: 15px;
+     }
+    .Experience {
+        margin-left: 100px;
+    }
+    .Experience h1 {
+        font-size: 40px;
+    }
+    .Experience span {
+        font-size: 15px;
+        margin-left: 6px;
+    }
+    .header3 {
+        gap: 50px;
+    }
+    .vintage {
+        height: 150px;
+    }
+    .burger {
+        height: 220px;
+        width: 315px;
+    }
+    .burger h3 {
+        font-size: 20px;
+    }
+    .burger h4 {
+       font-size: 13px;
+    }
+   .vintage1 {
+    height: 170px;
+    }
+  .vintage2 {
+    height: 150px;
+    }
+  .Work {
+    width: 650px;
+    margin-left: 45px;
+  }
+  .Together h2 {
+    font-size: 30px;
+  }
+  .Together p {
+    font-size: 10px;
+  }
+  .logo1 {
+    margin-left: 50px; 
+  }
+}
+
+@media screen and (max-width:730px) {
+    
+    .Items {
+       display: none;
+        }
+    .imagee {
+        height: 500px;
+        margin-left: 120px;
+       }
+    .header {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .Arthur {
+        margin-left: 120px;
+        margin-top: 50px;
+        text-align: center;
+    }
+    .bgc {
+        height: 2000px;
+    }
+    .header1 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-top: -1900px;
+    }
+    .UI {
+        height: 55px;
+    }
+    .Design {
+        width: 330px;
+    }
+    .Design1 {
+        width: 330px;
+    }
+    .Design h2 {
+        font-size: 30px;
+    }
+    .Design1 h2 {
+        font-size: 30px;
+    }
+    .Design p {
+       font-size: 20px;
+    }
+    .Design1 p {
+        font-size: 20px;
+    }  
+    .Design h3 {
+        font-size: 15px;
+    }  
+    .Design1 h3 {
+        font-size: 15px;
+    }  
+    .header2 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-top: 50px;
+    }
+    .Projects {
+        width: 180px;
+    }
+    .both {
+        margin-right: 12px;
+    }
+    .Achieve h2 {
+       font-size: 35px;
+    }
+    .Achieve span {
+       font-size: 12px;
+    }
+    .clients h2 {
+        font-size: 35px;
+     }
+     .clients span {
+        font-size: 10px;
+     }
+    .Experience {
+        margin-left: 0px;
+    }
+    .Experience h1 {
+        font-size: 45px;
+    }
+    .Experience span {
+        font-size: 10px;
+        margin-left: -10px;
+    }
+    .header3 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .Feature {
+        text-align: center;
+        }
+    .art {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 120px;
+        text-align: center;
+     }
+    
+    .art1 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 120px;
+        text-align: center;
+    }
+    .Work {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 370px;
+        margin-left: 15px;
+        text-align: center;
+        gap: 0px;
+    }
+   .Together h2 {
+    font-size: 25px;
+  }
+  .Together p {
+    font-size: 8px;
+  }
+  .navbar1 {
+    display: flex;
+    flex-direction: column;
+    height: 120px;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+  .logo1 {
+    margin-left: 10px; 
+  }
+  .socialmedia {
+    margin-right: 0px;
+  }
+  .icons {
+    margin-top: 10px;
+ }
+}
+
